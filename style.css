@@ -111,8 +111,9 @@ body {
   text-align: center;
 }
 .frameborder {
-  border: 1px solid #edebeb;
-  padding: 1rem 1rem;
+  border: 0.5px solid #edebeb;
+  padding: 2rem 1rem;
+  border-radius: 0.25rem;
 }
 
 @media (max-width: 1000px) {
